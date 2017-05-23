@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: shcolor
+Version: 0.0.2
+Summary: print color text on linux and windows
+Home-page: https://github.com/yunfwe/shcolor
+Author: weiyunfei
+Author-email: 1441923087@qq.com
+License: MIT
+Description: UNKNOWN
+Keywords: color text
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6

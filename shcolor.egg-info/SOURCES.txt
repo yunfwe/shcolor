@@ -1,0 +1,10 @@
+setup.py
+shcolor/__init__.py
+shcolor/__main__.py
+shcolor/linux.py
+shcolor/utils.py
+shcolor/win32.py
+shcolor.egg-info/PKG-INFO
+shcolor.egg-info/SOURCES.txt
+shcolor.egg-info/dependency_links.txt
+shcolor.egg-info/top_level.txt
